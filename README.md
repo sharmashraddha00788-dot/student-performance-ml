@@ -58,7 +58,9 @@ student-performance-ml/
     01_correlation_heatmap.png
     01_grade_boxplot.png
     01_marks_distribution.png
+    01_outlier_boxplot.png
     01_result_countplot.png
+    01_study_hours_capped_boxplot.png
     01_study_vs_marks.png
     02_bias_variance_polynomial.png
     02_knn_k_vs_error.png
